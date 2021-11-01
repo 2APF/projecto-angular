@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Caderno Spacial",
+      "price": 4500
+    },
+    {
+      "name": "Serei Bilionario",
+      "price": 22.88,
+      "id": 3
+    }
+  ]
+}
